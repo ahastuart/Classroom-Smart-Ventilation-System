@@ -22,7 +22,21 @@
 3. 게이트웨이(Wemos)에서 Aws로 전송 및 저장
 4. 창문 개방 및 환푼기 자동 제어 기능
 
+
+### 시스템 구성
 <img width="600" alt="image" src="https://github.com/ahastuart/Classroom-Smart-Ventilation-System/assets/117140125/a4432b6e-a39c-415c-ba42-bcc913b5c8a8">
+
+
+### 간단한 기술 소개
+미세먼지 센서 --> 대기질 측정
+불꽃 센서 --> 대기질 측정
+서브 모터, 환풍기 팬 --> 대기질이 안좋아지거나 일정 수치 이상 불꽃이 감지되면, 서브모터로 창문을 열고 환풍기 작동 (수치가 다시 정상화되면, 환풍기가 꺼지고 창문이 다시 닫힘.)
+
+
+### 앱
+![image](https://github.com/ahastuart/Classroom-Smart-Ventilation-System/assets/117140125/9a335ddd-d77d-48c7-8ebd-998fccaa4add)
+앱은 현재 레이아웃만 구성함.
+
 
 
    
